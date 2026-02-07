@@ -141,4 +141,11 @@ images/
 ├── logo.avif          ✅
 └── ortodoncia.avif    ✅ NUEVO
 ¡La imagen de Ortodoncia ahora se ve perfecta en la página de servicios! 🦷✨
-Si tienes más imágenes para los otros servicios (Examen Dental, Endodoncia, Rehabilitación, Cirugía), puedo agregarlas de la misma manera.ServiciosCódigo · HTML DescargarStylesCódigo · CSS Descargar
+Si tienes más imágenes para los otros servicios: 
+Examen Dental, 
+Endodoncia, 
+Rehabilitación, 
+Cirugía, 
+puedo agregarlas de la misma manera.
+
+ServiciosCódigo · HTML DescargarStylesCódigo · CSS Descargar
